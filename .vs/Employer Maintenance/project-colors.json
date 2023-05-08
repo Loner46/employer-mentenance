@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ca87b224-a660-4c3e-96df-d80e7561ed7f": {
+      "ProjectGuid": "ca87b224-a660-4c3e-96df-d80e7561ed7f",
+      "DisplayName": "MaintenanceUI",
+      "ColorIndex": 0
+    },
+    "5d95df97-c8fa-40fe-a519-f2d2888dee7a": {
+      "ProjectGuid": "5d95df97-c8fa-40fe-a519-f2d2888dee7a",
+      "DisplayName": "MaintenanceLibrary",
+      "ColorIndex": 1
+    },
+    "aed15ddd-29e5-45f5-a029-087d68129a4c": {
+      "ProjectGuid": "aed15ddd-29e5-45f5-a029-087d68129a4c",
+      "DisplayName": "MentenaceUI",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
